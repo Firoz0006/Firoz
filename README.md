@@ -16,7 +16,7 @@ Passionate about building scalable applications, working with cloud technologies
 
 ## 🌍 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mdfirozalam786/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YourGitHubUsername)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Firoz0006)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=web)](https://github.com/Firoz0006)  
 
 ---
